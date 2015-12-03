@@ -1,0 +1,9 @@
+# -*- mode: snippet; require-final-newline: nil -*-
+# name: has code
+# key: hasty
+# binding: direct-keybinding
+# --
+
+#+begin_src haskell :tangle $1
+$0
+#+end_src
