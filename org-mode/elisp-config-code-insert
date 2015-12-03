@@ -1,0 +1,8 @@
+# -*- mode: snippet; require-final-newline: nil -*-
+# name: elisp-config-code-insert
+# key: elisp
+# binding: C-c C-g
+# --
+#+begin_src elisp :tangle ~/.emacs
+
+#+end_src
